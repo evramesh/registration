@@ -1,0 +1,46 @@
+/* Write your CSS code here */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 15px;
+  border-radius: 10px;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.head {
+  color: red;
+  font-family: cursive;
+}
+.btn {
+  background-color: #ea580c;
+  height: 30px;
+  width: 90px;
+  color: white;
+  border-width: 0px;
+  border-radius: 7px;
+  margin-top: 20px;
+}
+.para {
+  color: green;
+  font-size: 13px;
+  font-family: monospace;
+  margin-top: 15px;
+}
+.error {
+  color: #ea580c;
+  font-size: 15px;
+}
+.btnresponse {
+  background-color: #ea580c;
+  border-width: 0px;
+  border-radius: 15px;
+  color: white;
+  margin-top: 15px;
+}
